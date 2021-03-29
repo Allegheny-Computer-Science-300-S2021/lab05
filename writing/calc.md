@@ -1,4 +1,4 @@
-#### Name: Oliver Bonham-Carter
+#### Name: Add Your Name Here
 #### Date: 29 March 2021
 #### What this is: Calculations from the manual work out of the Needleman-Wunsch algorithm.
 
