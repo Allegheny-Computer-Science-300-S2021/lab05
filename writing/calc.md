@@ -1,4 +1,4 @@
-#### Name: Add Your Name Here
+#### Name: Oliver Bonham-Carter
 #### Date: 29 March 2021
 #### What this is: Calculations from the manual work out of the Needleman-Wunsch algorithm.
 
@@ -18,48 +18,48 @@ Scoring table:
 a)
 - Match or Mismatch: A = A is a match
 - Left entry calculation: -1 - 1 = -2
-- Above entry calculation: -1 + 0 = -1
-- Diagonal entry calculation: 1 + 0 = 1
+- Above entry calculation: -1 -1 = -2
+- Diagonal entry calculation: 0 + 1 = 1
 - Max score: 1 from the Diagonal
 
 b)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               bla bla bla
+- Left entry calculation:          bla bla bla
+- Above entry calculation:         bla bla bla
+- Diagonal entry calculation:      bla bla bla
+- Max score: 1 from the Diagonal   bla bla bla
 
 
 c)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               bla bla bla
+- Left entry calculation:          bla bla bla
+- Above entry calculation:         bla bla bla
+- Diagonal entry calculation:      bla bla bla
+- Max score: 1 from the Diagonal   bla bla bla
 
 
 d)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               bla bla bla
+- Left entry calculation:          bla bla bla
+- Above entry calculation:         bla bla bla
+- Diagonal entry calculation:      bla bla bla
+- Max score: 1 from the Diagonal   bla bla bla
 
 
 e)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               bla bla bla
+- Left entry calculation:          bla bla bla
+- Above entry calculation:         bla bla bla
+- Diagonal entry calculation:      bla bla bla
+- Max score: 1 from the Diagonal   bla bla bla
 
 
 f)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               bla bla bla
+- Left entry calculation:          bla bla bla
+- Above entry calculation:         bla bla bla
+- Diagonal entry calculation:      bla bla bla
+- Max score: 1 from the Diagonal   bla bla bla
 
 
 
