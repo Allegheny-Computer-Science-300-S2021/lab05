@@ -22,44 +22,45 @@ a)
 - Diagonal entry calculation: 0 + 1 = 1
 - Max score: 1 from the Diagonal
 
+
 b)
-- Match or Mismatch:               bla bla bla
-- Left entry calculation:          bla bla bla
-- Above entry calculation:         bla bla bla
-- Diagonal entry calculation:      bla bla bla
-- Max score: 1 from the Diagonal   bla bla bla
+- Match or Mismatch:               #TODO
+- Left entry calculation:          #TODO
+- Above entry calculation:         #TODO
+- Diagonal entry calculation:      #TODO
+- Max score: 1 from the Diagonal   #TODO
 
 
 c)
-- Match or Mismatch:               bla bla bla
-- Left entry calculation:          bla bla bla
-- Above entry calculation:         bla bla bla
-- Diagonal entry calculation:      bla bla bla
-- Max score: 1 from the Diagonal   bla bla bla
+- Match or Mismatch:               #TODO
+- Left entry calculation:          #TODO
+- Above entry calculation:         #TODO
+- Diagonal entry calculation:      #TODO
+- Max score: 1 from the Diagonal   #TODO
 
 
 d)
-- Match or Mismatch:               bla bla bla
-- Left entry calculation:          bla bla bla
-- Above entry calculation:         bla bla bla
-- Diagonal entry calculation:      bla bla bla
-- Max score: 1 from the Diagonal   bla bla bla
+- Match or Mismatch:               #TODO
+- Left entry calculation:          #TODO
+- Above entry calculation:         #TODO
+- Diagonal entry calculation:      #TODO
+- Max score: 1 from the Diagonal   #TODO
 
 
 e)
-- Match or Mismatch:               bla bla bla
-- Left entry calculation:          bla bla bla
-- Above entry calculation:         bla bla bla
-- Diagonal entry calculation:      bla bla bla
-- Max score: 1 from the Diagonal   bla bla bla
+- Match or Mismatch:               #TODO
+- Left entry calculation:          #TODO
+- Above entry calculation:         #TODO
+- Diagonal entry calculation:      #TODO
+- Max score: 1 from the Diagonal   #TODO
 
 
 f)
-- Match or Mismatch:               bla bla bla
-- Left entry calculation:          bla bla bla
-- Above entry calculation:         bla bla bla
-- Diagonal entry calculation:      bla bla bla
-- Max score: 1 from the Diagonal   bla bla bla
+- Match or Mismatch:               #TODO
+- Left entry calculation:          #TODO
+- Above entry calculation:         #TODO
+- Diagonal entry calculation:      #TODO
+- Max score: 1 from the Diagonal   #TODO
 
 
 
